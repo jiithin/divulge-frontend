@@ -1,0 +1,1 @@
+export const DIVULGE="https://divlge-backend.onrender.com"
